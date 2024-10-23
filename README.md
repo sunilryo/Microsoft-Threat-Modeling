@@ -18,11 +18,19 @@ Step 5: Notice that the Threat List panel now shows the possible threats in a li
 
 ![threat](https://github.com/sunilryo/Images/blob/main/threat.png)
 
+![Properties](https://github.com/sunilryo/Images/blob/main/properties.png)
+
 You can download the threat list as a CSV file by selecting Export CSV. This gives you a structured and easily accessible record of identified threats that you can share with stakeholders who do not have the Microsoft Threat Modeling tool installed. You can also use it to perform further analysis, sorting, filtering, or data manipulation as needed. View a sample of the exported CSV file here:
 
 ![Export](https://github.com/sunilryo/Images/blob/main/export.png)
 
 ![Report](https://github.com/sunilryo/Images/blob/main/threatmodel.csv)
->Step 6: Select the Reports menu in the top toolbar and then select Create Full Report.
 
->Step 7: A popup window will appear. Select the Countermeasure, Risk, and Team options and then Generate Report.
+Step 6: Select the Reports menu in the top toolbar and then select Create Full Report.
+
+![Report](https://github.com/sunilryo/Images/blob/main/report1.png)
+
+Step 7: A popup window will appear. Select the Countermeasure, Risk, and Team options and then Generate Report.
+
+![Final](https://github.com/sunilryo/Images/blob/main/final.png)
+
