@@ -1,4 +1,5 @@
 >Step 1: Use the Microsoft Threat Modeling Tool.
+
 >Step 2: Select Open a Model and navigate to the Sample_Threat Model_https.tm7  file you downloaded earlier.
 
 >Step 3: Notice that there is a Stencils panel on the right of the screen. Stencils are used to add components to a diagram. Explore the components used in the model to make sure you understand the diagram.
