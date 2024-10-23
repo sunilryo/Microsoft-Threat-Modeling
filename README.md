@@ -10,7 +10,7 @@ Step 3: Notice that there is a Stencils panel on the right of the screen. Stenci
 
 ![Stensils](https://github.com/sunilryo/Images/blob/main/stencil.png)
 
->Step 4: Switch to Analysis View by selecting the Switch to Analysis View button in the toolbar in the top left corner of the screen (page with magnifying glass icon).
+Step 4: Switch to Analysis View by selecting the Switch to Analysis View button in the toolbar in the top left corner of the screen (page with magnifying glass icon).
 
 ![Analysis](https://github.com/sunilryo/Images/blob/main/analysis.png)
 
@@ -18,11 +18,11 @@ Step 5: Notice that the Threat List panel now shows the possible threats in a li
 
 ![threat](https://github.com/sunilryo/Images/blob/main/threat.png)
 
->You can download the threat list as a CSV file by selecting Export CSV. This gives you a structured and easily accessible record of identified threats that you can share with stakeholders who do not have the Microsoft Threat Modeling tool installed. You can also use it to perform further analysis, sorting, filtering, or data manipulation as needed. View a sample of the exported CSV file here:
+You can download the threat list as a CSV file by selecting Export CSV. This gives you a structured and easily accessible record of identified threats that you can share with stakeholders who do not have the Microsoft Threat Modeling tool installed. You can also use it to perform further analysis, sorting, filtering, or data manipulation as needed. View a sample of the exported CSV file here:
 
 ![Export](https://github.com/sunilryo/Images/blob/main/export.png)
 
->csv ![excel](https://github.com/sunilryo/Images/blob/main/threatmodel.csv)
+![Report](https://github.com/sunilryo/Images/blob/main/threatmodel.csv)
 >Step 6: Select the Reports menu in the top toolbar and then select Create Full Report.
 
 >Step 7: A popup window will appear. Select the Countermeasure, Risk, and Team options and then Generate Report.
