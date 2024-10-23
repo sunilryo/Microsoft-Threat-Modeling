@@ -3,10 +3,12 @@
 
 ![ThreatModeling](https://github.com/sunilryo/Images/blob/main/threat%20modeling.png)
 
+
 <h3>Step 2:</h3> Select *Open a Model* and navigate to the Sample_Threat Model_https.tm7  file.
 
 
 ![Select file](https://github.com/sunilryo/Images/blob/main/openfile.png)
+
 
 <h3>Step 3:</h3> Notice that there is a Stencils panel on the right of the screen. Stencils are used to add components to a diagram. Explore the components used in the model to make sure you understand the diagram.
 
