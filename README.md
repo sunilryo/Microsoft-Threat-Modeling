@@ -2,7 +2,7 @@ Step 1: Use the Microsoft Threat Modeling Tool.
 
 ![ThreatModeling](https://github.com/sunilryo/Images/blob/main/threat%20modeling.png)
 
-Step 2: Select Open a Model and navigate to the Sample_Threat Model_https.tm7  file.
+Step 2: Select *Open a Model* and navigate to the Sample_Threat Model_https.tm7  file.
 
 ![Select file](https://github.com/sunilryo/Images/blob/main/openfile.png)
 
