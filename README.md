@@ -2,19 +2,19 @@
 
 ![ThreatModeling](https://github.com/sunilryo/Images/blob/main/threat%20modeling.png)
 
-Step 2: Select *Open a Model* and navigate to the Sample_Threat Model_https.tm7  file.
+<h3>Step 2:</h3> Select *Open a Model* and navigate to the Sample_Threat Model_https.tm7  file.
 
 ![Select file](https://github.com/sunilryo/Images/blob/main/openfile.png)
 
-Step 3: Notice that there is a Stencils panel on the right of the screen. Stencils are used to add components to a diagram. Explore the components used in the model to make sure you understand the diagram.
+<h3>Step 3:</h3> Notice that there is a Stencils panel on the right of the screen. Stencils are used to add components to a diagram. Explore the components used in the model to make sure you understand the diagram.
 
 ![Stensils](https://github.com/sunilryo/Images/blob/main/stencil.png)
 
-Step 4: Switch to Analysis View by selecting the Switch to Analysis View button in the toolbar in the top left corner of the screen (page with magnifying glass icon).
+<h3>Step 4:</h3> Switch to Analysis View by selecting the Switch to Analysis View button in the toolbar in the top left corner of the screen (page with magnifying glass icon).
 
 ![Analysis](https://github.com/sunilryo/Images/blob/main/analysis.png)
 
-Step 5: Notice that the Threat List panel now shows the possible threats in a list below the diagram. Select one of the threats in the list to view the Threat Properties panel that contains additional information about the specific threat.
+<h3>Step 5:</h3> Notice that the Threat List panel now shows the possible threats in a list below the diagram. Select one of the threats in the list to view the Threat Properties panel that contains additional information about the specific threat.
 
 ![threat](https://github.com/sunilryo/Images/blob/main/threat.png)
 
@@ -26,11 +26,11 @@ You can download the threat list as a CSV file by selecting Export CSV. This giv
 
 ![Report](https://github.com/sunilryo/Images/blob/main/threatmodel.csv)
 
-Step 6: Select the Reports menu in the top toolbar and then select Create Full Report.
+<h3>Step 6:</h3> Select the Reports menu in the top toolbar and then select Create Full Report.
 
 ![Report](https://github.com/sunilryo/Images/blob/main/report1.png)
 
-Step 7: A popup window will appear. Select the Countermeasure, Risk, and Team options and then Generate Report.
+<h3>Step 7:</h3> A popup window will appear. Select the Countermeasure, Risk, and Team options and then Generate Report.
 
 ![Final](https://github.com/sunilryo/Images/blob/main/final.png)
 
