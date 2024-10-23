@@ -1,4 +1,4 @@
-<h1>Step 1:</h1>  Use the Microsoft Threat Modeling Tool.
+<h3>Step 1:</h3>  Use the Microsoft Threat Modeling Tool.
 
 ![ThreatModeling](https://github.com/sunilryo/Images/blob/main/threat%20modeling.png)
 
